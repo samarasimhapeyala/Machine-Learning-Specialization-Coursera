@@ -14,7 +14,7 @@ The specialization consists of three key courses:
   - Classification algorithms (K-NN, SVM, etc.)
   - Unsupervised learning (Clustering, PCA)
 
-### 2. [Advanced Learning_Algorithms](#3-advanced-learning-algorithms)
+### 2. [Advanced Learning Algorithms](#3-advanced-learning-algorithms)
 - **Objective**: Understand how to improve the performance of machine learning models using techniques like regularization, cross-validation, and hyperparameter tuning.
 - **Topics Covered**: 
   - Model evaluation and cross-validation
@@ -25,7 +25,6 @@ The specialization consists of three key courses:
 ### 3. [Unsupervised Learning, Recommenders, Reinforcement Learning](#3-advanced-machine-learning-techniques)
 - **Objective**: Dive deeper into advanced machine learning algorithms, including deep learning, neural networks, and reinforcement learning.
 - **Topics Covered**:
-  - Neural networks and deep learning
-  - Backpropagation and optimization techniques
+  - Unsupervised Machine learning Techniques
+  - Recommenders
   - Reinforcement learning
-  - Convolutional and recurrent neural networks
