@@ -22,7 +22,7 @@ The specialization consists of three key courses:
   - Regularization (Lasso, Ridge)
   - Hyperparameter tuning
 
-### 3. [Advanced Machine Learning Techniques](#3-advanced-machine-learning-techniques)
+### 3. [Unsupervised Learning, Recommenders, Reinforcement Learning](#3-advanced-machine-learning-techniques)
 - **Objective**: Dive deeper into advanced machine learning algorithms, including deep learning, neural networks, and reinforcement learning.
 - **Topics Covered**:
   - Neural networks and deep learning
